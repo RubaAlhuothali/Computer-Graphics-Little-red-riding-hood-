@@ -14,8 +14,8 @@ Xcode
 
 ### mady by
 - ruba alhuothali
-- Jana Abdulrahman Alqurashi.         
-- Jenan abdalghani mgliyah.              
-- Ghadeer Naif Fallatah.                       
-- Reema Ali Al-Khalifah.                    
-- shahd yousef almatrouk.    
+- Jana Alqurashi.         
+- Jenan mgliyah.              
+- Ghadeer Fallatah.                       
+- Reema Al-Khalifah.                    
+- shahd almatrouk.    
